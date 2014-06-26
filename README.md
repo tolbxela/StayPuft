@@ -1,6 +1,6 @@
 # StayPuft
 
-A fork of Casper, the default theme for [Ghost](https://github.com/tryghost/ghost/).
+A fork of StayPuft theme for [Ghost](https://github.com/tryghost/ghost/) from [David Lecina](https://github.com/dlecina/)
 
 ## Features
 
@@ -14,10 +14,7 @@ A fork of Casper, the default theme for [Ghost](https://github.com/tryghost/ghos
 
 ## Demo
 
-This theme is being used in my [blog](http://davidlecina.com/).
-
-*  ["Welcome to Ghost" post](http://davidlecina.com/welcome-to-ghost/).
-*  [Prism demo](http://davidlecina.com/prism-demo/).
+This theme is being used in my [blog](http://blog.tolbxela.com/).
 
 ## Installation
 
@@ -25,7 +22,7 @@ This theme is being used in my [blog](http://davidlecina.com/).
 
 ```
 cd ghost/content/themes
-sudo git clone https://github.com/dlecina/StayPuft
+sudo git clone https://github.com/tolbxela/StayPuft
 ```
 
 * **[Configure](#configuration) the theme.**
