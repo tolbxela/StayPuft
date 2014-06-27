@@ -611,7 +611,7 @@ margin on the iframe, cause it breaks stuff. */
     position: fixed;
     top: 0px;
     left: 0px;
-    width: 370px;
+    width: 350px;
     height: 100%;
     z-index: 100;
     background-color: #22313F;
@@ -626,7 +626,7 @@ main
     right: 0px;
     top: 0px;
     bottom: 0px;
-    padding: 40px 15%;
+    padding: 40px 10%;
 }
 
 #search
